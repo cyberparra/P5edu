@@ -23,3 +23,11 @@ Elenco progetti NATURA & CURVE MATH
 9) lemniscata: https://editor.p5js.org/cyberparra/sketches/ouit89RMe
 10) love trigo: https://editor.p5js.org/cyberparra/sketches/947E4TuSX
 11) pitagora: https://editor.p5js.org/cyberparra/sketches/q2vI-gd4D
+
+Elenco progetti NATURA & ORBITE
+1) ruota della fortuna: https://editor.p5js.org/cyberparra/sketches/VZzs15ZCn
+2) sole terra: https://editor.p5js.org/cyberparra/sketches/XyEg2gZgL
+3) sole terra luna: https://editor.p5js.org/cyberparra/sketches/hOgbxlW-W
+4) radar: https://editor.p5js.org/cyberparra/sketches/Ff_-SgQXK
+5) orbita & space: https://editor.p5js.org/cyberparra/sketches/u0cDTJE13
+6) orbita&obj: https://editor.p5js.org/cyberparra/sketches/sIWPKJVKk
